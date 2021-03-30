@@ -1,0 +1,105 @@
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
